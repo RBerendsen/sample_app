@@ -74,4 +74,4 @@ DEPENDENCIES
   annotate-models (= 1.0.4)
   gravatar_image_tag (= 0.1.0)
   rails (= 3.0.0)
-# sqlite3-ruby (= 1.2.5)
+  sqlite3-ruby (= 1.2.5)
